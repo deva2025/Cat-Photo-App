@@ -18,6 +18,8 @@ The Cat Photo App is a simple web application that displays a collection of ador
 - Display a collection of cat photos.
 - Each photo includes a brief description or caption.
 
+  ![Screenshot (274)](https://github.com/deva2025/Cat-Photo-App/assets/166497101/adf49c42-746e-494c-8a21-cae3acd713c5)
+
 ## Installation
  
  
