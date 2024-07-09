@@ -32,6 +32,8 @@ The Cat Photo App is a simple web application that displays a collection of ador
 
 - Open the index.html file in a web browser to view the Cat Photo App.
 
+
+![Screenshot (275)](https://github.com/deva2025/Cat-Photo-App/assets/166497101/355ea96e-b94c-4123-9600-f6502458ca29)
     
 ## Tech Stack
   - HTML
